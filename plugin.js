@@ -19,7 +19,7 @@ function main() {
 registerPlugin({
   name: "OpenRCT2-AutomaticallyPause",
   version: "1.1",
-  authors: ["Ken"],
+  authors: ["Ken", "ltsSmitty"],
   type: "remote",
   licence: "Unlicense",
   targetApiVersion: 7,
